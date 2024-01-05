@@ -22,6 +22,10 @@ Install the necessary dependencies with npm install
 
 Run the app with npm start
 
+## To view the app demo ( hosted on nelify):
+
+https://web-app-dish-recipe.netlify.app
+
 ## Technologies Used
 
 React
